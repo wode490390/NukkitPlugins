@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.wode490390.nukkit.plugins</groupId>
+    <artifactId>parent</artifactId>
+    <packaging>pom</packaging>
+    <version>0.1</version>
+
+    <modules>
+        <module>lib</module>
+        <module>pro</module>
+        <module>gen</module>
+        <module>pop</module>
+        <module>tool</module>
+        <module>vanilla</module>
+        <module>fun</module>
+        <module>misc</module>
+        <module>example</module>
+        <module>20w14i</module>
+        <module>netease</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/wode490390/NukkitPlugins/issues</url>
+    </issueManagement>
+
+    <ciManagement>
+        <system>GitHub Actions</system>
+        <url>https://github.com/wode490390/NukkitPlugins/actions</url>
+    </ciManagement>
+
+    <scm>
+        <connection>scm:git:https://github.com/wode490390/NukkitPlugins.git</connection>
+        <developerConnection>scm:git:ssh://github.com:wode490390/NukkitPlugins.git</developerConnection>
+        <url>https://github.com/wode490390/NukkitPlugins</url>
+    </scm>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>20w14infinite-parent</artifactId>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>cn.wode490390.nukkit.plugins</groupId>
+        <artifactId>parent</artifactId>
+        <version>0.1</version>
+    </parent>
+
+    <modules>
+        <module>CheckerboardGenerator</module>
+        <module>CreeperFaceGenerator</module>
+        <module>DecayGenerator</module>
+        <module>DiagonalMazeGenerator</module>
+        <module>HelixGenerator</module>
+        <module>MengerSpongeGenerator</module>
+        <module>PatternsGenerator</module>
+        <module>PillarsGenerator</module>
+        <module>RetroGenerator</module>
+        <module>RoomsGenerator</module>
+        <module>SlimeGenerator</module>
+        <module>SpiralGenerator</module>
+        <module>StripesGenerator</module>
+        <module>TunnelsGenerator</module>
+    </modules>
+</project>

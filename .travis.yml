@@ -1,0 +1,11 @@
+language: java
+
+jdk:
+  - openjdk8
+
+install:
+  - mvn -B clean package
+
+cache:
+  directories:
+    - '$HOME/.m2/repository'

@@ -1,0 +1,189 @@
+[submodule "netease/skin-checker"]
+	path = netease/skin-checker
+	url = https://github.com/NeteasePE/netease-skin-checker.git
+[submodule "netease/words-checker"]
+	path = netease/words-checker
+	url = https://github.com/NeteasePE/netease-words-checker.git
+[submodule "gen/BetterVanillaGenerator"]
+	path = gen/BetterVanillaGenerator
+	url = https://github.com/wode490390/BetterVanillaGenerator.git
+[submodule "gen/TheEnd"]
+	path = gen/TheEnd
+	url = https://github.com/wode490390/TheEnd.git
+[submodule "pop/ClassicVillagePopulator"]
+	path = pop/ClassicVillagePopulator
+	url = https://github.com/wode490390/ClassicVillagePopulator.git
+[submodule "pro/AntiXray"]
+	path = pro/AntiXray
+	url = https://github.com/wode490390/AntiXray.git
+[submodule "vanilla/VanillaCommandBlock"]
+	path = vanilla/VanillaCommandBlock
+	url = https://github.com/wode490390/VanillaCommandBlock.git
+[submodule "vanilla/VanillaCommands"]
+	path = vanilla/VanillaCommands
+	url = https://github.com/wode490390/VanillaCommands.git
+[submodule "vanilla/CacheSupport"]
+	path = vanilla/CacheSupport
+	url = https://github.com/wode490390/CacheSupport.git
+[submodule "fun/BlockPets"]
+	path = fun/BlockPets
+	url = https://github.com/wode490390/BlockPets.git
+[submodule "lib/bStats"]
+	path = lib/bStats
+	url = https://github.com/wode490390/bStats-Nukkit.git
+[submodule "misc/RollBossBar"]
+	path = misc/RollBossBar
+	url = https://github.com/wode490390/RollBossBar.git
+[submodule "gen/SkyGridGenerator"]
+	path = gen/SkyGridGenerator
+	url = https://github.com/wode490390/SkyGridGenerator.git
+[submodule "pro/Sanctioner"]
+	path = pro/Sanctioner
+	url = https://github.com/wode490390/Sanctioner.git
+[submodule "pop/StrongholdPopulator"]
+	path = pop/StrongholdPopulator
+	url = https://github.com/wode490390/StrongholdPopulator.git
+[submodule "pop/NetherFortressPopulator"]
+	path = pop/NetherFortressPopulator
+	url = https://github.com/wode490390/NetherFortressPopulator.git
+[submodule "pop/OceanMonumentPopulator"]
+	path = pop/OceanMonumentPopulator
+	url = https://github.com/wode490390/OceanMonumentPopulator.git
+[submodule "pop/MineshaftPopulator"]
+	path = pop/MineshaftPopulator
+	url = https://github.com/wode490390/MineshaftPopulator.git
+[submodule "pop/ScatteredBuildingPopulator"]
+	path = pop/ScatteredBuildingPopulator
+	url = https://github.com/wode490390/ScatteredBuildingPopulator.git
+[submodule "lib/PluginAnnotations"]
+	path = lib/PluginAnnotations
+	url = https://github.com/wode490390/PluginAnnotations.git
+[submodule "vanilla/ChemistryGameplay"]
+	path = vanilla/ChemistryGameplay
+	url = https://github.com/wode490390/ChemistryGameplay.git
+[submodule "fun/LuckyBlock"]
+	path = fun/LuckyBlock
+	url = https://github.com/wode490390/LuckyBlock.git
+[submodule "misc/TrashBin"]
+	path = misc/TrashBin
+	url = https://github.com/wode490390/TrashBin.git
+[submodule "misc/Radio"]
+	path = misc/Radio
+	url = https://github.com/wode490390/Radio.git
+[submodule "tool/GeoIP"]
+	path = tool/GeoIP
+	url = https://github.com/wode490390/GeoIP.git
+[submodule "tool/BiomeFixer"]
+	path = tool/BiomeFixer
+	url = https://github.com/wode490390/BiomeFixer.git
+[submodule "pro/BanRecipe"]
+	path = pro/BanRecipe
+	url = https://github.com/wode490390/BanRecipe.git
+[submodule "pop/QuasiStructurePopulator"]
+	path = pop/QuasiStructurePopulator
+	url = https://github.com/wode490390/QuasiStructurePopulator.git
+[submodule "misc/CustomCreativeItems"]
+	path = misc/CustomCreativeItems
+	url = https://github.com/wode490390/CustomCreativeItems.git
+[submodule "tool/SignsEditor"]
+	path = tool/SignsEditor
+	url = https://github.com/wode490390/SignsEditor.git
+[submodule "tool/PlayerUuidTool"]
+	path = tool/PlayerUuidTool
+	url = https://github.com/wode490390/PlayerUuidTool.git
+[submodule "fun/Energy"]
+	path = fun/Energy
+	url = https://github.com/wode490390/Energy.git
+[submodule "pro/NondestructiveExplosion"]
+	path = pro/NondestructiveExplosion
+	url = https://github.com/wode490390/NondestructiveExplosion.git
+[submodule "pop/MultiTemplateStructurePopulator"]
+	path = pop/MultiTemplateStructurePopulator
+	url = https://github.com/wode490390/MultiTemplateStructurePopulator.git
+[submodule "pop/SingleTemplateStructurePopulator"]
+	path = pop/SingleTemplateStructurePopulator
+	url = https://github.com/wode490390/SingleTemplateStructurePopulator.git
+[submodule "tool/WorldReset"]
+	path = tool/WorldReset
+	url = https://github.com/wode490390/WorldReset.git
+[submodule "tool/EventsController"]
+	path = tool/EventsController
+	url = https://github.com/wode490390/EventsController.git
+[submodule "fun/AcidRain"]
+	path = fun/AcidRain
+	url = https://github.com/wode490390/AcidRain.git
+[submodule "misc/DynamicMaxPlayerCount"]
+	path = misc/DynamicMaxPlayerCount
+	url = https://github.com/wode490390/DynamicMaxPlayerCount.git
+[submodule "gen/SkyPlainGenerator"]
+	path = gen/SkyPlainGenerator
+	url = https://github.com/wode490390/SkyPlainGenerator.git
+[submodule "gen/AtlantisGenerator"]
+	path = gen/AtlantisGenerator
+	url = https://github.com/wode490390/AtlantisGenerator.git
+[submodule "example/Dice"]
+	path = example/Dice
+	url = https://github.com/wode490390/Dice.git
+[submodule "fun/SneakPickup"]
+	path = fun/SneakPickup
+	url = https://github.com/wode490390/SneakPickup.git
+[submodule "fun/Bounce"]
+	path = fun/Bounce
+	url = https://github.com/wode490390/Bounce.git
+[submodule "fun/FlyingSquid"]
+	path = fun/FlyingSquid
+	url = https://github.com/wode490390/FlyingSquid.git
+[submodule "fun/FlyingPigs"]
+	path = fun/FlyingPigs
+	url = https://github.com/wode490390/FlyingPigs.git
+[submodule "example/ReverseText"]
+	path = example/ReverseText
+	url = https://github.com/wode490390/ReverseText.git
+[submodule "example/Feedback"]
+	path = example/Feedback
+	url = https://github.com/wode490390/Feedback.git
+[submodule "fun/SneakAttack"]
+	path = fun/SneakAttack
+	url = https://github.com/wode490390/SneakAttack.git
+[submodule "20w14i/MengerSpongeGenerator"]
+	path = 20w14i/MengerSpongeGenerator
+	url = https://github.com/wode490390/MengerSpongeGenerator.git
+[submodule "20w14i/HelixGenerator"]
+	path = 20w14i/HelixGenerator
+	url = https://github.com/wode490390/HelixGenerator.git
+[submodule "20w14i/CreeperFaceGenerator"]
+	path = 20w14i/CreeperFaceGenerator
+	url = https://github.com/wode490390/CreeperFaceGenerator.git
+[submodule "20w14i/TunnelsGenerator"]
+	path = 20w14i/TunnelsGenerator
+	url = https://github.com/wode490390/TunnelsGenerator.git
+[submodule "20w14i/DiagonalMazeGenerator"]
+	path = 20w14i/DiagonalMazeGenerator
+	url = https://github.com/wode490390/DiagonalMazeGenerator.git
+[submodule "20w14i/DecayGenerator"]
+	path = 20w14i/DecayGenerator
+	url = https://github.com/wode490390/DecayGenerator.git
+[submodule "20w14i/RetroGenerator"]
+	path = 20w14i/RetroGenerator
+	url = https://github.com/wode490390/RetroGenerator.git
+[submodule "20w14i/PatternsGenerator"]
+	path = 20w14i/PatternsGenerator
+	url = https://github.com/wode490390/PatternsGenerator.git
+[submodule "20w14i/SpiralGenerator"]
+	path = 20w14i/SpiralGenerator
+	url = https://github.com/wode490390/SpiralGenerator.git
+[submodule "20w14i/CheckerboardGenerator"]
+	path = 20w14i/CheckerboardGenerator
+	url = https://github.com/wode490390/CheckerboardGenerator.git
+[submodule "20w14i/RoomsGenerator"]
+	path = 20w14i/RoomsGenerator
+	url = https://github.com/wode490390/RoomsGenerator.git
+[submodule "20w14i/PillarsGenerator"]
+	path = 20w14i/PillarsGenerator
+	url = https://github.com/wode490390/PillarsGenerator.git
+[submodule "20w14i/SlimeGenerator"]
+	path = 20w14i/SlimeGenerator
+	url = https://github.com/wode490390/SlimeGenerator.git
+[submodule "20w14i/StripesGenerator"]
+	path = 20w14i/StripesGenerator
+	url = https://github.com/wode490390/StripesGenerator.git

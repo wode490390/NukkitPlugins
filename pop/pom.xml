@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>populator-parent</artifactId>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>cn.wode490390.nukkit.plugins</groupId>
+        <artifactId>parent</artifactId>
+        <version>0.1</version>
+    </parent>
+
+    <modules>
+        <module>ClassicVillagePopulator</module>
+        <module>MineshaftPopulator</module>
+        <module>MultiTemplateStructurePopulator</module>
+        <module>NetherFortressPopulator</module>
+        <module>OceanMonumentPopulator</module>
+        <module>QuasiStructurePopulator</module>
+        <module>ScatteredBuildingPopulator</module>
+        <module>SingleTemplateStructurePopulator</module>
+        <module>StrongholdPopulator</module>
+    </modules>
+</project>
